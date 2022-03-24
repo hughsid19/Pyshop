@@ -4,3 +4,6 @@ To view this project you have to run local server as of in DJANGO
 with the command python manage.py runserver.
 There are two models in this project which is products and offer and they are stored in db.sqlite3 file.
 BOOTSTRAP is used to enhance the website.
+
+USE THIS COMMAND TO RUN THE APPLICATION
+__$ python manage.py startapp example__
